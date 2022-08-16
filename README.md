@@ -15,6 +15,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 6. [**Interactive Visual Analytics with Folium**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_Interactive_Visual_Analytics_mECIM2pw9.ipynb)
 7. [**Dashboard Application source code**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/dachboard.py)
 8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_Machine_Learning_Prediction_lab_WQR7p7VKv.ipynb)
+9. [**Presentation**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/Ali_Ibrahim_AppliedDataScienceCapstone.zip)
 
 
 ### Acknowledgements 
