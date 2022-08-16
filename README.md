@@ -10,7 +10,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 1. [**Data Collection with API**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_final_assignment_E245RGZ6b.ipynb)
 2. [**Data Collection with Web Scraping**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_Data_Collection_with_Web_Scraping_JwQlhUQ3U.ipynb)
 3. [**Data Wrangling**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_Data_Wrangling_Y-_5Ege19.ipynb)
-4. [**EDA with SQL**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_EDA_With_SQL_A1sU8PH5w.ipynb)
+4. [**EDA with SQL**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/EDA%20With%20SQL.ipynb)
 5. [**EDA with Visulaization Lab**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_EDA_with_Visualization_kxUe-aJYI.ipynb)
 6. [**Interactive Visual Analytics with Folium**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/notebook_Interactive_Visual_Analytics_mECIM2pw9.ipynb)
 7. [**Dashboard Application source code**](https://github.com/Ali-M-Ibrahim/AppliedDataScienceCapstone/blob/main/dachboard.py)
